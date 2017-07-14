@@ -8,6 +8,7 @@ This repository is partly for me to memorize which articles I used in my newslet
 ## Basics
 
 ## Projects for the good
+http://publicism.nl/
 
 ## Background
 
@@ -18,6 +19,12 @@ This repository is partly for me to memorize which articles I used in my newslet
 ### Proposed
 Bitcoin op 1 augustus: UASF & SegWit2X - Wat, wanneer & waarom (great piece in Dutch on what might be expected on the first of August)
 https://rannasha.tweakblogs.net/blog/14975/bitcoin-op-1-augustus-uasf-en-segwit2x-wat-wanneer-en-waarom
+
+Own work on ICO's
+http://www.ksoeteman.nl/2017/07/het-ontstaan-van-een-nieuw-soort-geldmachines-de-ico/
+
+Nice explanation from Lykle de Vries and Rutger van Zuidam on how blockchains work (mainly Bitcoin) at a meetup from my old employer Tweakers
+https://tweakers.net/plan/1301/bekijk-de-presentaties-van-de-meet-up-blockchain.html
 
 
 ### Used
@@ -47,4 +54,11 @@ September 28: [Dutch Blockchain Hackathon](https://blockchainhackathon.eu/events
 ## Own work
 For me this was the piece which tought me a lot. When reading it now, I see flaws in ease of explanation, but that's a learning curve:
 https://tweakers.net/reviews/4437/all/the-dao-blockchains-en-ethereum.html
+Wrote a lot on blockchain related stuff between March 2015 and October 2016 on this website, but most articles were just news.
+
+On ICO's and why they are different than IPO's
+http://www.ksoeteman.nl/2017/07/het-ontstaan-van-een-nieuw-soort-geldmachines-de-ico/
+
+Thoughts in May 2015. When a fee was still low:
+http://www.ksoeteman.nl/2015/05/bitcoin-als-alternatief-voor-pin-op-locatie/
 
