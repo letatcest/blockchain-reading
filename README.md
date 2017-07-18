@@ -13,16 +13,19 @@ This repository is partly for me to memorize which articles I used in my newslet
 ## Projects for the good
 - http://publicism.nl/
 
-## Background
+* [test](blockchain-reading/test.md)
 
+## Background
 - Although I think I explained Ethereum at length in Dutch in July 2016, this it what Motherboard wrote a year after:
 https://motherboard.vice.com/en_us/article/newkqz/okay-wtf-is-ethereum
 
 ## Governing
+### Goverments
 - Governments are pretty intersted in Blockchain. For the good, but maybe not?..
 https://www.economist.com/news/business/21722869-anti-establishment-technology-faces-ironic-turn-fortune-governments-may-be-big-backers
-
-- IBM predicts the global blockchain market will grow to 5.43 billion USD by 2023. 91 percent of banks plan to invest in blockchain by 2018. Pdf here: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GBE03842USEN&
+### Finance
+- [IBM predicts the global blockchain market will grow to 5.43 billion USD by 2023. 91 percent of banks plan to invest in blockchain by 2018](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GBE03842USEN&)
+- [1.3 billion raised by ICO's since Januari 2017 (now: Juli 18)](https://www.ft.com/content/1a164d6c-6b12-11e7-bfeb-33fe0c5b7eaa)
 
 ## Newsletter
 
