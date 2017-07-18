@@ -13,7 +13,7 @@ This repository is partly for me to memorize which articles I used in my newslet
 ## Projects for the good
 - http://publicism.nl/
 
-* [test](blockchain-reading/test.md)
+* [test](/test.md)
 
 ## Background
 - Although I think I explained Ethereum at length in Dutch in July 2016, this it what Motherboard wrote a year after:
