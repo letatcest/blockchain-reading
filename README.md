@@ -58,6 +58,8 @@ https://tweakers.net/plan/1301/bekijk-de-presentaties-van-de-meet-up-blockchain.
 > What would change, however, is the barrier to entry for startups as anyone would be able to source rooms from the blockchain and thereby the market would see increased competition rather than intermediaries setting the distribution rates.
 https://skift.com/2017/07/11/blockchain-will-disrupt-expedia-and-airbnb-tui-ceo-says/
 
+- 21 juli, 1 augustus, welke datum moet je op letten? Een tijdlijn: https://bitcoinmagazine.com/articles/countdown-segwit-these-are-dates-keep-eye/
+
 ### Used
 - For the articles used in the different newsletters, look for the *(Newsletter #X)*-comment following an article
 
