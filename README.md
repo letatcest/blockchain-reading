@@ -39,6 +39,8 @@ https://issuu.com/icocrowd/docs/ico_crowd_-_issuu (Newsletter [#1](https://www.g
 ## Newsletter
 
 ### Proposed
+- I searched and search and.. I read it on my Phone in Firefox (which I use because I can use Ghostery on FF on my phone) fortunately that one syncs as well: read. https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
+
 - Bitcoin op 1 augustus: UASF & SegWit2X - Wat, wanneer & waarom (great piece in Dutch on what might be expected on the first of August)
 https://rannasha.tweakblogs.net/blog/14975/bitcoin-op-1-augustus-uasf-en-segwit2x-wat-wanneer-en-waarom
 
