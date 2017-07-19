@@ -39,26 +39,26 @@ https://issuu.com/icocrowd/docs/ico_crowd_-_issuu (Newsletter [#1](https://www.g
 ## Newsletter
 
 ### Proposed
-- I searched and search and.. I read it on my Phone in Firefox (which I use because I can use Ghostery on FF on my phone) fortunately that one syncs as well: read. https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
+- I searched and search and.. I read it on my Phone in Firefox (which I use because I can use Ghostery on FF on my phone) fortunately that one syncs as well: read. https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348 (Newsletter [#3]( ))
 
 - Bitcoin op 1 augustus: UASF & SegWit2X - Wat, wanneer & waarom (great piece in Dutch on what might be expected on the first of August)
-https://rannasha.tweakblogs.net/blog/14975/bitcoin-op-1-augustus-uasf-en-segwit2x-wat-wanneer-en-waarom
+https://rannasha.tweakblogs.net/blog/14975/bitcoin-op-1-augustus-uasf-en-segwit2x-wat-wanneer-en-waarom (Newsletter [#3]( ))
 
 - Own work on ICO's
-http://www.ksoeteman.nl/2017/07/het-ontstaan-van-een-nieuw-soort-geldmachines-de-ico/
+http://www.ksoeteman.nl/2017/07/het-ontstaan-van-een-nieuw-soort-geldmachines-de-ico/ (Newsletter [#3]( ))
 
 - Nice explanation from Lykle de Vries and Rutger van Zuidam on how blockchains work (mainly Bitcoin) at a meetup from my old employer Tweakers
-https://tweakers.net/plan/1301/bekijk-de-presentaties-van-de-meet-up-blockchain.html
+https://tweakers.net/plan/1301/bekijk-de-presentaties-van-de-meet-up-blockchain.html (Newsletter [#3]( ))
 
-- Although it talks about blockchain from an investors perspective, it explains why blockchain will yield more small businesses, because of the protocol layer is the biggest asset: https://medium.com/indian-thoughts/a-brief-history-of-blockchain-an-investors-perspective-387c440ad11c
+- Although it talks about blockchain from an investors perspective, it explains why blockchain will yield more small businesses, because of the protocol layer is the biggest asset: https://medium.com/indian-thoughts/a-brief-history-of-blockchain-an-investors-perspective-387c440ad11c (Newsletter [#3]( ))
 
 - Following up on that, this article on TUI's own private blockchain for reservations etc. will eventually connect to a public blockchain for travel reservations. Notable quote: 
 > Blockchain is essentially a large database, where querying a hotel in Berlin might return 800 properties. Search companies would most likely still operate to help users find exactly what they’re looking for and offer a curated list of hotels.
 
 > What would change, however, is the barrier to entry for startups as anyone would be able to source rooms from the blockchain and thereby the market would see increased competition rather than intermediaries setting the distribution rates.
-https://skift.com/2017/07/11/blockchain-will-disrupt-expedia-and-airbnb-tui-ceo-says/
+https://skift.com/2017/07/11/blockchain-will-disrupt-expedia-and-airbnb-tui-ceo-says/ (Newsletter [#3]( ))
 
-- 21 juli, 1 augustus, welke datum moet je op letten? Een tijdlijn: https://bitcoinmagazine.com/articles/countdown-segwit-these-are-dates-keep-eye/
+- 21 juli, 1 augustus, welke datum moet je op letten? Een tijdlijn: https://bitcoinmagazine.com/articles/countdown-segwit-these-are-dates-keep-eye/ (Newsletter [#3]( ))
 
 ### Used
 - For the articles used in the different newsletters, look for the *(Newsletter #X)*-comment following an article
