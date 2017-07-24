@@ -49,7 +49,7 @@ https://skift.com/2017/07/11/blockchain-will-disrupt-expedia-and-airbnb-tui-ceo-
 ### Proposed
 
 - A Radiolab Podcast on the creation of ZCash, but told like a detective story. Just listen: http://www.radiolab.org/story/ceremony/ (Newsletter [#4]())
-
+- Meetup: [Bitcoin Wednesday August 2](https://www.meetup.com/BitcoinWednesday/events/236813926/?eventId=236813926)
 
 ### Used
 - Mostarticles used in the newsletters are later posted in one of the different sections of this readme, except for subjects which don't really 'fit'. Otherwise, look for the *(Newsletter #X)*-comment following an article
