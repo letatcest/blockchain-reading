@@ -1,6 +1,6 @@
 Because the amount of ICO's is enormous, a [list](https://next.autonomous.com/download-token-mania/) of the most notable ones of 2017. Also see [Smith + Crown}(https://www.smithandcrown.com/icos/). Tokens highlighted with *!* I consider of interest.
 
-*Note: I do not think this is the correct way of viewing how much an ICO technically raised, like when BANCOR had its ICO, Ether was worth something like $300. Well, you do the math, but if ether is now only 150 or maybe 1000...*
+*Note: I do not think this  the correct way of viewing how much an ICO technically raised, like when BANCOR had its ICO, Ether was worth something like $300. Well, you do the math, but if ether is now only 150 or maybe 1000...*
 
 | Name | Amount $ millions |  |
 | --------- | -------- | -------- |
